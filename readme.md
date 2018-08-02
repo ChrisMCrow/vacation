@@ -19,8 +19,8 @@ _None_
 
 ## Technologies Used
 
-_HTML_
-_CSS_
-_Bootstrap_
+* HTML
+* CSS
+* Bootstrap
 
 Copyright (c) 2018 **_Cathy Bradley, Chris Crow_**
