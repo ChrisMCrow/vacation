@@ -1,6 +1,8 @@
 .cost {
   padding-left: 10px;
 }
-.panel {
-  height: 160px;
+.date {
+  color: #2eb82e;
+  font-weight: bold;
+  font-size: 16px;
 }
